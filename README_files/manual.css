@@ -1,0 +1,147 @@
+/*
+ * Copyright © 2023 Miguel Ángel Arruga Vivas <rosen644835@gmail.com>
+ *
+ * Permission is granted to copy, distribute and/or modify this
+ * document under the terms of the GNU Free Documentation License,
+ * Version 1.3 or any later version published by the Free Software
+ * Foundation; with no Invariant Sections, no Front-Cover Texts, and
+ * no Back-Cover Texts.  A copy of the license can be found following
+ * this link: https://www.gnu.org/licenses/fdl-1.3.html
+ */
+body {
+    background-color: #efffff;
+    margin: auto;
+    max-width: 1000px;
+    text-align: justify;
+}
+
+hr {
+    visibility: hidden;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    heigth: 0px;
+}
+
+.header {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #dcf0f0;
+    border-style: solid;
+    border-color: #71d0d0;
+    border-width: 1px;
+    border-radius: 120px;;
+}
+
+h1 {
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+h2 {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h3 {
+    padding-left: 21px;
+    padding-right: 21px;
+}
+
+h4 {
+    padding-left: 22px;
+    padding-right: 22px;
+}
+
+h5 {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+p {
+    text-align: inherit;
+    padding-left: 30px;
+    padding-right: 60px;
+}
+
+
+dt {
+    text-align: start;
+    padding-left: 45px;
+    padding-right: 50px;
+}
+
+dd {
+    text-align: justify;
+    padding-left: 0px;
+    padding-right: 45px;
+    margin-bottom: 20px;
+}
+
+ul {
+    padding-left: 55px;
+    padding-right: 55px;
+    margin-bottom: 15px;
+}
+
+ol {
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+table {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+div.example {
+    background-color: #f0f0f0;
+    display: inline-block;
+    border-color: #109090;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+pre.example {
+    text-align: start;
+    padding: 20px;
+}
+
+pre.verbatim {
+    text-align: start;
+    padding: 25px;
+}
+
+div.chapter {
+    padding-top: 0px;
+}
+
+a:link {
+    text-decoration: underline;
+    color: #000020;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #000020;
+}
+
+a:hover {
+    text-decoration: none;
+    color: blue;
+}
+
+a:active {
+    text-decoration: underline;
+    color: black;
+}

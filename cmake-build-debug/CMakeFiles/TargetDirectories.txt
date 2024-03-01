@@ -1,0 +1,3 @@
+/home/admin/ProjectCLion/PopupExecArgsC++/cmake-build-debug/CMakeFiles/PopupExecArgsC__.dir
+/home/admin/ProjectCLion/PopupExecArgsC++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/admin/ProjectCLion/PopupExecArgsC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
